@@ -9,9 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 315</p>
-    <p>A1 Building</p>
-    <p>Indian Institute of Technology Dharwad - 580 011, Karnataka, Bharata (India)</p>
+    <p>315, Academic Block - 1</p>
+    
+    <p>Indian Institute of Technology Dharwad, Main Campus, Chikkamalligawad,Dharwad - 580007, Karnataka </p>
+    <p>Email: ameer@iitdh.ac.in Office Phone: +91 836 2212 846</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
