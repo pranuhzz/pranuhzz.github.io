@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.iitdh.ac.in/'>Indian Institute Of Technology Dharwad</a>. Dr. Ameer Mulla
 
@@ -26,7 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-## Hub for Autonomous Networked Systems
 
 # Welcome to the exciting world of Robotics!
 
