@@ -11,10 +11,7 @@ profile:
   more_info: >
     <p>Room 315</p>
     <p>A1 Building</p>
-    <p>Indian Institute of Technology Dharwad
-Permanent Campus, Chikkamalligawad
-Dharwad - 580 011
-Karnataka, Bharata (India)</p>
+    <p>Indian Institute of Technology Dharwad - 580 011, Karnataka, Bharata (India)</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
