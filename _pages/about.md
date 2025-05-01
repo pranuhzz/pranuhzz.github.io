@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.iitdh.ac.in/'>Indian Institute Of Technology Dharwad</a>. Room 315-A1 Building. ameer@iitdh.ac.in. Motto. Etc.
+subtitle: <a>Room No. 315-A1 Building</a>
+subtitle: <a href='ameer@iitdh.ac.in'>Contact</a>
 
 profile:
   align: right
