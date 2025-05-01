@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.iitdh.ac.in/'>Indian Institute Of Technology Dharwad</a>. Room 315-A1 Building. ameer@iitdh.ac.in. Motto. Etc.
+subtitle: <a href='https://www.iitdh.ac.in/'>Indian Institute Of Technology Dharwad</a>. Dr. Ameer Mulla
 
 profile:
   align: right
