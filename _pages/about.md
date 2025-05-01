@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.iitdh.ac.in/user-profile/ameer-k-mulla'>Dr. Ameer Mulla</a>
+subtitle: <a href='https://www.iitdh.ac.in/user-profile/ameer-k-mulla'>Prof. Ameer K Mulla</a>
 
 profile:
   align: right
