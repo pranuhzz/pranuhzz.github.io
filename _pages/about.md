@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.iitdh.ac.in/'>Indian Institute Of Technology Dharwad</a>. Dr. Ameer Mulla
+subtitle: <a href='https://www.iitdh.ac.in/user-profile/ameer-k-mulla'>Dr. Ameer Mulla</a>
 
 profile:
   align: right
