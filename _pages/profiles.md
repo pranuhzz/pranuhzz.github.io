@@ -14,17 +14,18 @@ profiles:
     content: about_ameer.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+    <p>323, Academic Block - 1, Indian Institute of Technology Dharwad</p>
+      <p>Main Campus, Chikkamalligawad</p>
+      <p>Dharwad - 580007, Karnataka</p>
+      <p>Email: ameer@iitdh.ac.in</p>
+      <p>Office Phone: +91 836 2212 846</p>
   - align: left
     image: Gaurav_Shukla.jpg
     content: about_Gaurav.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>323, Academic Block - 1, Indian Institute of Technology Dharwad</p>
-      <p>Main Campus, Chikkamalligawad</p>
-      <p>Dharwad - 580007, Karnataka</p>
-      <p>Email: ameer@iitdh.ac.in</p>
-      <p>Office Phone: +91 836 2212 846</p>
+      <p>CARS LAB</p>
+      <p>Indian Institute of Technology Dharwad</p>
+      <p>Email: pranuhzz@gmail.com</p>
+     
 ---
