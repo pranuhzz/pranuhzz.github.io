@@ -29,7 +29,7 @@ profiles:
       <p>Email: pranuhzz@gmail.com</p>
 
   - align: right
-    image: Ameer_Mulla.jpg
+    image: Gopal.jpg
     content: about_goal.md
     image_circular: false # crops the image to make it circular
     more_info: >
