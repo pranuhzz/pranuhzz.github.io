@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Phoenix
+description: A drone that can locate the survivors to be rescued in fire accidents 
 img: assets/img/12.jpg
 importance: 1
 category: work
