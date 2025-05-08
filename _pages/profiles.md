@@ -30,7 +30,7 @@ profiles:
 
   - align: right
     image: Gopal.jpg
-    content: about_goal.md
+    content: about_gopal.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>323, Academic Block - 1, Indian Institute of Technology Dharwad</p>
