@@ -14,7 +14,7 @@ profiles:
     content: about_ameer.md
     image_circular: false # crops the image to make it circular
     more_info: >
-    <p>323, Academic Block - 1, Indian Institute of Technology Dharwad</p>
+      <p>323, Academic Block - 1, Indian Institute of Technology Dharwad</p>
       <p>Main Campus, Chikkamalligawad</p>
       <p>Dharwad - 580007, Karnataka</p>
       <p>Email: ameer@iitdh.ac.in</p>
