@@ -27,5 +27,16 @@ profiles:
       <p>CARS LAB</p>
       <p>Indian Institute of Technology Dharwad</p>
       <p>Email: pranuhzz@gmail.com</p>
+
+  - align: right
+    image: Ameer_Mulla.jpg
+    content: about_goal.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>323, Academic Block - 1, Indian Institute of Technology Dharwad</p>
+      <p>Main Campus, Chikkamalligawad</p>
+      <p>Dharwad - 580007, Karnataka</p>
+      <p>Email: ameer@iitdh.ac.in</p>
+      <p>Office Phone: +91 836 2212 846</p>
      
 ---
