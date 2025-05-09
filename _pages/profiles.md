@@ -20,7 +20,7 @@ profiles:
       <p>Email: ameer@iitdh.ac.in</p>
       <p>Office Phone: +91 836 2212 846</p>
   
-  - align: right
+  - align: left
     image: Gopal.jpg
     content: about_gopal.md
     image_circular: false # crops the image to make it circular
@@ -30,7 +30,7 @@ profiles:
       <p>Dharwad - 580007, Karnataka</p>
       <p>Email: ameer@iitdh.ac.in</p>
       <p>Office Phone: +91 836 2212 846</p>
-  - align: left
+  - align: right
     image: Gaurav_Shukla.jpg
     content: about_Gaurav.md
     image_circular: false # crops the image to make it circular
