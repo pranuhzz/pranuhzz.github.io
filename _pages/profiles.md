@@ -39,7 +39,7 @@ profiles:
       <p>Indian Institute of Technology Dharwad</p>
       <p>Email: ee24dp012@iitdh.ac.in</p>
   - align: left
-    image: Gaurav_Shukla.jpg
+    image: Gaurav_Shukla.jpeg
     content: about_Gaurav.md
     image_circular: false # crops the image to make it circular
     more_info: >
