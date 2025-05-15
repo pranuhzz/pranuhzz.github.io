@@ -31,6 +31,14 @@ profiles:
       <p>Email: ameer@iitdh.ac.in</p>
       <p>Office Phone: +91 836 2212 846</p>
   - align: right
+    image: shakir.jpg
+    content: about_shakir.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>CARS LAB</p>
+      <p>Indian Institute of Technology Dharwad</p>
+      <p>Email: ee24dp012@iitdh.ac.in</p>
+  - align: left
     image: Gaurav_Shukla.jpg
     content: about_Gaurav.md
     image_circular: false # crops the image to make it circular
